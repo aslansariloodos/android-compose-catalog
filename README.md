@@ -12,3 +12,7 @@ your project.
 You can contribute by adding new components or improving existing components. You can add your
 components to the `components` folder. You can also add a README.md file for your component. You can
 use the `template.md` file as a template.
+
+## Components
+
+- [Pager Indicator](core/ui/src/main/java/com/loodos/core/ui/pager/README.md)
