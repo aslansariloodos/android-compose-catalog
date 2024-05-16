@@ -10,8 +10,8 @@ your project.
 ## Contributing
 
 You can contribute by adding new components or improving existing components. You can add your
-components to the `components` folder. You can also add a README.md file for your component. You can
-use the `template.md` file as a template.
+components to the `core:ui` module. You should also add a README.md file for your component, and
+reference it in the main README.md file.
 
 ## Components
 
