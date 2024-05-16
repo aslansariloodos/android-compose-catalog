@@ -1,6 +1,6 @@
 ## Preview
 
-![img.png](images/img.png)
+![img.png](images/preview.png)
 
 ## Usage
 
